@@ -1,0 +1,19 @@
+{
+  "name": "jc2",
+  "version": "0.0.1",
+  "description": "A replacement and improvement to jodel.city",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jc2-collab/jc2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jc2-collab/jc2/issues"
+  },
+  "homepage": "https://github.com/jc2-collab/jc2#readme"
+}
